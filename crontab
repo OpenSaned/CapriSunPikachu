@@ -1,0 +1,2 @@
+30 3 * * * python3 main.py 
+30 15 * * * python3 main.py 
